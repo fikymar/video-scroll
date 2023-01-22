@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "videoskate",
+			"path": "../../../../Downloads/videoskate"
+		},
+		{
+			"name": "video-scroll",
+			"path": "."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "video-scroll"
+	}
+}
